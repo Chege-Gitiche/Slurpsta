@@ -1,0 +1,31 @@
+#icon2{
+    float: right;
+    height: 300px;
+    width: 300px;
+    float: top;
+}
+#text1{
+    alignment: center;
+    padding: 20px;
+    margin-bottom: 30px;
+    text-align: justify;
+    font-size: 25px;
+
+
+}
+#icon2 {
+    width: 50%;
+    float: left;
+}
+#text2{
+    float: bottom;
+    font-size:20px ;
+}
+#text3{
+    font-size: 100px;
+    font-family: FreeMono;
+}
+#list1{
+    background-color: white;
+    color: white;
+}
